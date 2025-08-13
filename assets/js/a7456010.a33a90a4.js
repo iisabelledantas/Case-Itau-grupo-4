@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcase_itau=self.webpackChunkcase_itau||[]).push([[235],{8552:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
