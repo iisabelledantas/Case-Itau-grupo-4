@@ -21,9 +21,9 @@ A nossa solução é centrada na persona de **Antônio**, um cliente fiel do Ita
     *   **Desejo de Proteção:** Preocupação em proteger sua família e organizar seus bens.
     *   **Busca por Autonomia:** Quer tomar decisões seguras sem depender de terceiros.
 
-## **3. Nossa Proposta: "Guardião Digital Itaú"**
+## **3. Nossa Proposta: "Itaú Senior"**
 
-Propomos o **"Guardião Digital Itaú"**, uma nova funcionalidade no aplicativo do Itaú desenhada para ser um assistente pessoal e proativo para o público sênior. A solução se baseia em três pilares: **Segurança, Educação e Acessibilidade**.
+Propomos o **"Itaú Senior"**, uma nova funcionalidade no aplicativo do Itaú desenhada para ser um assistente pessoal e proativo para o público sênior. A solução se baseia em três pilares: **Segurança, Educação e Acessibilidade**.
 
 ### **Funcionalidades Principais**
 

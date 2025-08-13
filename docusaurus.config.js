@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Case Itaú - Grupo 4',
+  title: 'Itaú Senior',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/logoItau.png',
 
@@ -82,7 +82,7 @@ const config = {
     ({
       // Replace with your project's social card
       navbar: {
-        title: 'Case Itau - Grupo 4',
+        title: 'Itaú Senior',
         logo: {
           src: 'img/logoItau.png',
         },
