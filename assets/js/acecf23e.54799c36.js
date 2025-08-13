@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcase_itau=self.webpackChunkcase_itau||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/Case-Itau-grupo-4/blog","blogTitle":"Blog","authorsListPath":"/Case-Itau-grupo-4/blog/authors"}')}}]);
