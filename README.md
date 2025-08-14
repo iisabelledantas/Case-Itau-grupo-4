@@ -31,40 +31,39 @@ Propomos o **"Guardião Digital Itaú"**, uma nova funcionalidade no aplicativo 
 
 ## Integrantes da equipe
 
-<div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center' }}>
-  <div style={{ margin: 10, textAlign: 'center' }}>
-    <a href="https://www.linkedin.com/in/iisabelledantas/">
-      <img src={require("../static/img/Isabelle.png").default} style={{ borderRadius: '10%', width: 120 }} alt="Isabelle Dantas" />
-      <br />
-      <sub><b>Isabelle Dantas</b></sub>
-    </a>
-  </div>
-  <div style={{ margin: 10, textAlign: 'center' }}>
-    <a href="https://www.linkedin.com/in/larissa-martins-304644245/">
-      <img src={require("../static/img/larissa.png").default} style={{ borderRadius: '10%', width: 120 }} alt="Larissa Martins" />
-      <br />
-      <sub><b>Larissa Martins</b></sub>
-    </a>
-  </div>
-  <div style={{ margin: 10, textAlign: 'center' }}>
-    <a href="https://www.linkedin.com/in/mirellaborim/">
-      <img src={require("../static/img/mirella.png").default} style={{ borderRadius: '10%', width: 120 }} alt="Mirella Borim" />
-      <br />
-      <sub><b>Mirella Borim</b></sub>
-    </a>
-  </div>
-  <div style={{ margin: 10, textAlign: 'center' }}>
-    <a href="https://www.linkedin.com/in/-rafael-cabral/">
-      <img src={require("../static/img/rafael.png").default} style={{ borderRadius: '10%', width: 120 }} alt="Lucas Nepomuceno" />
-      <br />
-      <sub><b>Rafael Cabral</b></sub>
-    </a>
-  </div>
-  <div style={{ margin: 10, textAlign: 'center' }}>
-    <a href="https://www.linkedin.com/in/sophia-emanuele-de-senne-silva/">
-      <img src={require("../static/img/sophia.png").default} style={{ borderRadius: '10%', width: 120 }} alt="Sophia Emanuele" />
-      <br />
-      <sub><b>Sophia Emanuele</b></sub>
-    </a>
-  </div>
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/iisabelledantas/">
+          <img src="./static/img/Isabelle.png" style="border-radius: 10%; width: 150px;" alt="Isabelle Dantas"/><br>
+          <sub><b>Isabelle Dantas</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/larissa-martins-304644245/">
+          <img src="./static/img/larissa.png" style="border-radius: 10%; width: 150px;" alt="Larissa Martins"/><br>
+          <sub><b>Larissa Martins</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/mirellaborim/">
+          <img src="./static/img/mirella.png" style="border-radius: 10%; width: 150px;" alt="Mirella Borim"/><br>
+          <sub><b>Mirella Borim</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/-rafael-cabral/">
+          <img src="./static/img/rafael.png" style="border-radius: 10%; width: 150px;" alt="Rafael Cabral"/><br>
+          <sub><b>Rafael Cabral</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/sophia-emanuele-de-senne-silva/">
+          <img src="./static/img/sophia.png" style="border-radius: 10%; width: 150px;" alt="Sophia Emanuele"/><br>
+          <sub><b>Sophia Emanuele</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
