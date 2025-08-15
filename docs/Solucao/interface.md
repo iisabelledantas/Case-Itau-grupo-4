@@ -12,7 +12,7 @@ title: Interfac e
 <div align="center">
 <sub>Página inicial da interface do Itaú Sênior</sub>
 
-  <img src="../../static/img/homepage.gif">
+  <img src="../../static/img/homepage.gif"></img>
 
 <sup>Fonte: Produzida pelos autores (2025).  Disponível no [link.](https://itau-senior.vercel.app/)</sup>
 </div>
@@ -23,7 +23,7 @@ title: Interfac e
 <div align="center">
 <sub>Página de "Investimentos" do Itaú Sênior</sub>
 
-  <img src="../../static/img/investiments.gif">
+  <img src="../../static/img/investiments.gif"></img>
 
 <sup>Fonte: Produzida pelos autores (2025).  Disponível no [link.](https://itau-senior.vercel.app/)</sup>
 </div>
@@ -33,7 +33,7 @@ title: Interfac e
 <div align="center">
 <sub>Página de "Histórico" da interface do Itaú Sênior</sub>
 
-  <img src="../../static/img/historico.gif">
+  <img src="../../static/img/historico.gif"></img>
 
 <sup>Fonte: Produzida pelos autores (2025).  Disponível no [link.](https://itau-senior.vercel.app/)</sup>
 </div>
@@ -43,7 +43,7 @@ title: Interfac e
 <div align="center">
 <sub>Página de "Segurança" da interface do Itaú Sênior</sub>
 
-  <img src="../../static/img/seguranca.gif">
+  <img src="../../static/img/seguranca.gif"></img>
 
 <sup>Fonte: Produzida pelos autores (2025).  Disponível no [link.](https://itau-senior.vercel.app/)</sup>
 </div>
@@ -55,7 +55,7 @@ title: Interfac e
 <div align="center">
 <sub>Página inicial de "Aprenda" e "Assistente" do Itaú Sênior</sub>
 
-  <img src="../../static/img/aprenda.gif">
+  <img src="../../static/img/aprenda.gif"></img>
 
 <sup>Fonte: Produzida pelos autores (2025).  Disponível no [link.](https://itau-senior.vercel.app/)</sup>
 </div>
